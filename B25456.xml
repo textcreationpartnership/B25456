@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A blasphemous &amp; treasonable paper emitted by the phanatical under-subscribers, on May 1. 1681. According to the original lying in the hands of the clerks of His Majesties most Honourable Privy Council.</title>
+            <author>Ker, Walter.</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25456</idno><idno type="EEBO-CITATION">99828847</idno>
+  <idno type="VID">207021</idno>
+  <idno type="EEBO-PROQUEST">2240875069</idno>
+  
+            <idno type="STC">Wing K345A</idno>
+            <idno type="PROQUEST">99828847</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828847e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1969:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A blasphemous &amp; treasonable paper emitted by the phanatical under-subscribers, on May 1. 1681. According to the original lying in the hands of the clerks of His Majesties most Honourable Privy Council.</title>
+                  <author>Ker, Walter.</author>
+                  <author>Gibb, John, fl. 1681. aut</author>
+                  <author>Jamison, David, 1660-1739. aut</author>
+                  <author>Young, John, fl. 1681. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Walter Ker. John Gibb. David Jamison. John Young.</note>
+                  <note>Caption title.</note>
+                  <note>Identified on UMI microfilm "Early English books, 1641-1700" reel 1946 as Wing (2nd ed., 1994) K345.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207021:1"/>
+            <pb n="1" facs="tcp:207021:1"/>
+            <head>A BLASPHEMOUS &amp; TREASONABLE PAPER, Emitted by the <hi>PHANATICAL</hi> Un<g ref="char:EOLhyphen"/>der-subscribers, on <hi>May</hi> 1, 1681. According to the ORIGINAL Lying in the hands of the <hi>CLERKS</hi> of His <hi>MAJESTIES</hi> most Honourable <hi>Privy COƲNCIL.</hi>
+            </head>
+            <p>WE undersubscribers, now Prisoners for the truth in the <hi>Cannongate</hi> Tolbuith Ironhouse, though most vile, yet it pleased the Holy Ghost to work on our Spirits of a time past, in clearing causes of wrath, and shewing us duty from day to day, that now in some time past we are, and have been called Mad men and Devils, and now there is none in the Kingdom, in Prison, or out of Prison that we can converse with as Christians. And yesterday being the 26. day of the <hi>5th.</hi> Moneth, it seemed good to the Holy Ghost and to us, to take out of our Bibles the Psalms in Meeter for several Causes mentioned afterwards, for the book of the <hi>Revelation</hi> sayes, <hi>If any man should add unto these things, God shall add unto him the plagues which are written in this book;</hi> and we did burn them in our Prison▪ house, and sweep away the Ashes. Likewise, in the Holy Scriptures, we renounce Chapters and Verses, and Contents, because it is only done by Humane Wisdom, and the changing of the books after the Holy Ghost had placed them: we being
+<pb facs="tcp:207021:2"/>
+               <pb n="1" facs="tcp:207021:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:207021:3"/> pressed to this work by the Holy Ghost, do renounce the Impres<g ref="char:EOLhyphen"/>sion and Translation of both the Old and New Testaments, and that for additions put unto them by men, and other causes; as first, putting in horrid Blasphemy, making a Tyrant Patron of the Church, when the Scriptures holds of none but of God, and needs no Patronage from any King, Prince, or Rulers, and the writing of that Blasphemous, Sacrilegious, (as some call it) the Epistle Dedicatory, filled with such language, as <hi>Dread Sovereign, Highness, most High and Mighty, most Sacred Majesty;</hi> and like<g ref="char:EOLhyphen"/>wise the horrid unparalelled blasphemy, making a Trian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le with these <hi>Hebrew</hi> Letters in it thus, יהוה <hi>Jehovah,</hi> representing the <hi>Trinity;</hi> and likewise putting in horrid Pictures in several places of the Holy Scripture; and likewise drawing scores betwixt the books of the Bible, and other superfluous traditions. Like<g ref="char:EOLhyphen"/>wise we renounce the Catechisms Larger and Shorter, and Confes<g ref="char:EOLhyphen"/>sion of Faith, against which we have many causes: one cause is, in the 23. <hi>chap.</hi> for the Scripture proofs that they cite, proves the contrary of that they write. We renounce the Acts of the Ge<g ref="char:EOLhyphen"/>neral Assembly, and all the Covenants, and acknowledging of sins and engagement to duties, and that which they call Preaching books, and all their works, way, form, and manner of worship, Doctrine, Discipline, and Government, and the studying on their books the thing they call their Preaching, for instead of going to God for his mind to the people, they go to their books, and so makes their books their God and their leader, and so all following that way, go to Hell together; the cause of this is, we find none of their works but they are like themselves, carnal and corrupt, according to that Scripture, <hi>Hate the Garment spotted with the flesh</hi> We renounce the limiting of the Lords mind by Glasses, and their ordination of men only learned, and their saying, that Learning is the essential of a Minister without grace. Likewise, we renounce their manner of renewing Covenants, pressing mens consciences to take a Covenant, and by so doing, has filled the Kirk and State with Tyrants and incarnat Devils, as we find this day, they knew the men to have no marks of grace, but on the other hand, to be prophant, as them they call King and Rulers, Captains and Commanders in State and Armies, and all Kirk Offi<g ref="char:EOLhyphen"/>cers whom we call Tyrants and Judases; for by so doing they have corrupted both Kirk and State, as this day Kirk men and States men, whom we call Judases and Tyrants, are studying in opposition to Holiness and the work of Reformation, who enter<g ref="char:EOLhyphen"/>ed in by these same Covenants, are now pursuing our lives for a Christian walk. And likewise, we renounce the Covenant taken at <hi>Queensferry,</hi> commonly called <hi>Cargil</hi>'s Covenant, and likewise <hi>Hamiltown</hi> Declaration, yea, and <hi>Sanquhare</hi> Declaration, because
+<pb n="3" facs="tcp:207021:3"/> they may and has owned these, and are owning these, who are enemies to Holiness, and were enemies to us, as some of them said, we should suffer Kirk Censure for giving over the old Apo<g ref="char:EOLhyphen"/>stat Ministers to the Devil, and some of them counted us their enemies for the truths sake, and sent us word they would protest against us, and so we justifie our Lord in breaking them at <hi>Airds</hi> Moss, we justifie the Lord likewise, in taking away that they call Field-Preachings, or mockings, because they were nothing but Rebellion against the High Lord, as we find now when our Lord is come to the Cross, there is neither Minister nor People to bide by him, of the many thousands has flocked to the thing they call Preachings or mockings, and therefore now all are found void of saving grace, and so we see that word is accomplished, <hi>Strait and narrow is the way that leadeth unto life, and few there be that find it;</hi> and that other word, <hi>many shall strive and shall not be able.</hi> We finding all former Actions to be such as Devils has and can creep in at (as Declarations and Covenants) and get the name of Saints; Therefore, this day it seemed good to the Holy Ghost and to us, to renounce and burn the former Covenants and De<g ref="char:EOLhyphen"/>clarations, because they are not strait enough according to Scrip<g ref="char:EOLhyphen"/>pture, and all their works such like, and therefore we will own none of their works, till it please the Lord to give us teaching from himself. By this all may know and understand, we overturn, and formally burns all the former, worke of the Clergy of <hi>Scotland,</hi> and throughout all the whole world that are in opposition to Holiness▪ dated the <hi>6th.</hi> day of the week, being the 27. of the <hi>5th.</hi> Moneth 1681. about midday.</p>
+            <p>We renounce and decline all Authority throughout the world, and all that are in Authority, and all their Acts and Edicts, from the Tyrant <hi>Charles Stuart</hi> to the lowest Tyrant, and burns them the samen day, being the 6<hi>th.</hi> day of the week, the 27. day of the 5<hi>th.</hi> Moneth, 1681. at <hi>Cannongate</hi> Tolbuith Iron-house.</p>
+            <p>We renounce the names of Moneths, as <hi>January, February, March, April, May, June, July, August, September, October, Nov. December. Sunday, Monday, Tuesday, Wednesday, Thursday, Fri<g ref="char:EOLhyphen"/>day, Saturday▪ Martymass, Hol<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>yes,</hi> for there is none holy but the <hi>Sabbath</hi> day▪ <hi>Lambas</hi> day, <hi>Whitsunday, Candlemass, Beltan, Cross<g ref="char:EOLhyphen"/>stones,</hi> and <hi>Images Fairs,</hi> named by Saints, and all the remnants of Popery, <hi>Yool</hi> or <hi>Christmas,</hi> old wives Fablet and By words, as <hi>Palmsunday, Carlinsunday,</hi> the 29. of <hi>May,</hi> being dedicat by this Generation to Prophanity, <hi>Peacesunday, Halloweven, Hogmynac</hi> night, <hi>Valenteins</hi> even; no Marrying in the Moneth they call <hi>May;</hi> the innumerable reliques of Popery, Atheism and Sorcery, and <hi>New-years</hi>-day, and <hi>Hansel-Munday,</hi> Dredgies and Likewakes, <hi>Valentin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fair,</hi> Chappels, Chaplains: likewise <hi>Sabbath</hi>-days
+<pb n="4" facs="tcp:207021:4"/> feastings, Blythmeats, Banquetings, Revellings, Pipings, Sport<g ref="char:EOLhyphen"/>ings, Dancings, Laughings, Singing prophane and lustful Songs and Ballads, Table-Lawings, Monk-lands, Frier-lands, Blackfrier-lands, Kirks and Kirkyards, and Mercat Crosses, Fount-stones, Images, Registers of Lands and Houses, Register Bands, Discharges, and all their Law-works, Inhibitions, Hornings, Letters of Adjudica<g ref="char:EOLhyphen"/>tions, Ships Passes, Prophanity and all unchast thoughts, words and Actions, formality, and indifferency, Story-books and Bal<g ref="char:EOLhyphen"/>lads, Romances and Pamphlets, Commedy books, Cards and Dice, and all such like, we disown all of them, and burns them the 6<hi>th.</hi> day of the week, being the 27. day of the 5<hi>th.</hi> Moneth, 1681. at the <hi>Cannongate</hi> Tolbuith Iron-house.</p>
+            <p>We renounce all the Customs and Fashions of this Generation, their way and custom of eating and drinking, sleeping, and wearing, and all our ownformer wayes, as well Religious as Moral, in so far as they have been squared and casten in this Generations mould, and all our Iniquious courses, lightness and unconcernedness with the Glory of God, the only end wherefore we were sent into the world, the 7<hi>th.</hi> day of the week, being the 27. of the 5<hi>th.</hi> Mo<g ref="char:EOLhyphen"/>neth.</p>
+            <p>We renounce all that are now in Prison houses or Correction houses, men and women: for none of them are with us in this work, and when we sent them a Copy of this our Renounciation, they called us Devils. The Copy of this we burnt instead of the Books and works of this Apostate Generation, and buried the Ashes in our and covered it with dust.</p>
+            <p>Notwithstanding of our burning Covenants and Declarati<g ref="char:EOLhyphen"/>ons, and renouncing of them and their works; Be it known to All, that we do neither vindicate the Cursed Mur<g ref="char:EOLhyphen"/>derers of their Bloodshed on Fields, and Scaffolds, and Seas, and other horrid cruelties, such as Torterings, Imprisonments, Pillagings, Banishments, Scourgings, Stigmatizings, <hi>&amp;c.</hi> nor con<g ref="char:EOLhyphen"/>demn we the worthie Martyrs, and the sufferings of others, only we give the Lord Justice, and vindicats his tarrying, for now the Furnace has brought forth a more pure Cause, which we tearm, <hi>Holiness to be built upon the word of God.</hi>
+            </p>
+            <p>That all may know and see our innocency, and know our end is and was the Glory of God in all we did, though vve came farr short; and in Moneths past vve could get none to shew us kind<g ref="char:EOLhyphen"/>ness for meat or lodging, though we could pay for it our selves:
+<pb n="5" facs="tcp:207021:4"/> That word in <hi>Malachy, Ye are cursed with a curse, for ye have rob<g ref="char:EOLhyphen"/>bed me, even the whole nation.</hi> And likevvise in <hi>Deut.</hi> We <hi>seeing the land all thus cursed, and all justifying themselves in that ini<g ref="char:EOLhyphen"/>quity, were afraid to eat, or drink, or sleep under a roof with them;</hi> though there vvere many that vvould have sheltered us, yet vve could not eat, drink, converse or pray vvith them, least vve had come under the curse, so many times our beds has been in he open fields, and vve have come to houses and they vvould not sell us Meal to make Potage of, and vve have found Meal and vvater a rare dish, because the curse vvas off it, and it vvas blessed to us, according to that Scripture, <hi>the blessing of the Lord maketh rich.</hi> We are not murmuring in this, but when the vveather has been worst, winds and rain, cold frost and snow, and when we had fasted most, we were best satisfied, according to that Scrip<g ref="char:EOLhyphen"/>ture, <hi>all shall work together for their good, that truly seek the Lord;</hi> when we had outward straits, then we had most inward peace, we had joy in the Holy Ghost, so the thing the world calls the worst of our life, as reproaches, imprisonments, nakedness, hunger, and cold, <hi>&amp;c.</hi> we had rather be suffering for our Lords sake, then be Kings of the whole earth, for our joy no man can take from us, and our prison is so pleasant through our Lord, that we care for no company, for we know no company but all are cursed, and we know not what it is to weary, but according to that Scripture, <hi>eat and drink my beloved, yea eat and drink abundantly,</hi> we are ra<g ref="char:EOLhyphen"/>ther in Paradice.</p>
+            <p>These things were cleard to us when fasting and praying, and we were pressed to do this by the Holy Ghost, we had many fasts about this thing, and this week we took some milk and bread in the third day of the week in the morning being the 24 day of the 5<hi>th.</hi> moneth 1681. and tasted neither meat nor drink, nor any other kind of living, till the 6<hi>th.</hi> day of the week at 4. after<g ref="char:EOLhyphen"/>noon (and then we took a little milk and bread) for to find out the Causes of his wrath we have, wandered, mourned, wept many a night, and day in houses and fields, for we have and has had no other end but his Glory, that the Elect such as should be saved might be brought in, and it is only Conscience that keeps us from giving men reverence in word and behaviour, though some call us dumb Devils, and unlearned Bruits, and one of us when coming before them they call Rulers, was called a Block-head, notwithstanding of all that came on us, we know and are taught by the Holy Scriptures, to give honour unto whom honour is due, and to salute one another, but it has been our work of a time to re<g ref="char:EOLhyphen"/>nounce the filthy vilde Imbracings, Salutations, and Complements of this Generation vvhich they call Court-breeding, our carri<g ref="char:EOLhyphen"/>age,
+<pb n="6" facs="tcp:207021:5"/> professing to follovv the Lord Jesus, should be st<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and cir<g ref="char:EOLhyphen"/>cumspect, according to that Scripture, <hi>Let us walk circumspectly, not as fools, but as wisemen,</hi> as it is written in <hi>Matthew, let your light so shine before men that they may see your good works, and glorifie your father which is in heaven.</hi>
+            </p>
+            <p>Cursed are they that sayes peace to a land, who are in the place of Watchmen, when the Lord sayes no peace, which practice, we silly unlearned creatures renounce, for vve bless him he has keeped us from resting till the Ark rest; and as for these they call Watch-men, that cryes peace or keep silence, vve shall referr them to the Prophet <hi>Ezekiel,</hi> which ye may read at leisure, which we think shall be <hi>Scotlands</hi> Doom, for we have heard tell of few of them they call Ministers, but they have all said peace, when brought before the enemies to witness their practice, being most unconscionable on Hill sides, and Moor sides, before several thousands, they called them Tyrants, and intollerable Oppres<g ref="char:EOLhyphen"/>sors, and their Government Tyranny and oppression, and that the Crown of Supremacy that <hi>Charles Stuart</hi> had usurped over the Kirk, would weight him down from the Throne, and all that Race with him, and when they are brought before them, and into Prisons, nothing but in with the other supplication, to the Ho<g ref="char:EOLhyphen"/>nourable Lords of His Majesties Secret Council, beck and beinge, and please your Lordships Grace. <hi>&amp;c.</hi> and now they are all at peace with his enemies, save one whom we disown, and so or long the enemies shall curse them, when the Lord awakens their Con<g ref="char:EOLhyphen"/>sciences; (though we confess we have had some special witnesses of Ministers) and we think or long, the Malignants shall pursue these Ministers to death for unfaithfulness, for the vilest Creatures in the Land high and low, rich and poor, noble and ignoble, must give account for works done in the flesh; then the Dogs, Sorce<g ref="char:EOLhyphen"/>rers, Whoremongers, and Murderers, and Idolaters, False-swea<g ref="char:EOLhyphen"/>rers, Cursers, Sabbath breakers, idle loose livers, and all that are unchast in thoughts, words, and behaviour, and all that makes no Conscience of their way, and whosoever loveth and maketh a lye, shall tremble that day when they shall enter into Eternity; when it shall be said as it was to <hi>Dives, thou in thy lifetime hadst thy good things, and</hi> Lazarus <hi>his bad things; for except a man be born again, he can in no wise enter into the Kingdom of Heaven.</hi>
+            </p>
+            <p>We take up the Book of the Holy Scripture at the Lords com<g ref="char:EOLhyphen"/>mand, and for a testimony of our dissatisfaction, at the abound<g ref="char:EOLhyphen"/>ing corruptions, both of Translators and the Press, and likewise
+<pb n="7" facs="tcp:207021:5"/> for a Testimony of our desires and intentions for a nevv Transla<g ref="char:EOLhyphen"/>tion and Impression, free of the foresaid and other abuses, vve to our power reform our ovvn books, and sayes, that the vvord of God needs no humane Art; We hold that the Word of God is laid the foundation of this nevv building, and shortly it shall be<g ref="char:EOLhyphen"/>come the head Corner stone of the Building, over both Kirk and Stater Kirk-men, and States-men; so that Scripture tovvards the end of the <hi>Rev.</hi> of <hi>John</hi> shall be fulfilled; <hi>And I saw heaven open<g ref="char:EOLhyphen"/>ed, and behold a white horse, and he that sat upon him was called faith<g ref="char:EOLhyphen"/>full and true, and in righteousness he doth judge and make war, his eyes were as a flame of fire, and on his head were many Crowns, and he had a new name written that no man knew, but he himself, and he was cloathed with a vesture dipt in blood, and his name is called the word of God.</hi>
+            </p>
+            <p>And first, to show that we take the Word of God in every point to be our Rule, the sum and end of our so much reproached and mocked at Exercise (Fasting and Prayer,) will be found in the Book of <hi>Psalms; Be thou exalted, O God, above the Heavens; and let thy glory be above all the Earth.</hi> It is written in the <hi>Acts</hi> of the Apostles, <hi>It seemed good to the Holy Ghost and to us:</hi> but they usurping Supremacy, sayes, by the Au<g ref="char:EOLhyphen"/>thority of the <hi>General Assembly</hi> allows these <hi>Psalms</hi> to be fung in Congregations, <hi>&amp;c.</hi> which we renounce: And more, we think the <hi>Psalm</hi> Book in Meeter, and no other thing ought to be with<g ref="char:EOLhyphen"/>in the broads of the Bible, but the simple Scriptures of Truth; the <hi>Psalms</hi> may be had in a Book by themselves.</p>
+            <p>We are so reproached and calumniate, that we are forced to make our defence, and show that we have mourned, fasted, and prayed many a day, and many a night this last Winter, many times in the open Fields, in Frost and Snow, while our Clothes were frozen upon us, and our Feet frozen in our Shooes, as the Town of cursed <hi>Borrowstonness</hi> can witness, and all this to find out the causes of our Lords tarrying, when those who are now calling us Devils, were turning themselves upon their Ivory beds, like a door upon the Hinges, eating the fat and drinking the sweet at their own ease: And when we were driven thence by Persecution, we took our selves to the Fields, holding still by our duty, where many Women did offer themselves to the Work, with whom our spi<g ref="char:EOLhyphen"/>rits was many a time burdened, whom we could not put away (as our blessed Lord dealt with <hi>Judas</hi> whom he knew would be<g ref="char:EOLhyphen"/>tray him) without manifest causes: We stayed not with them but on solemn days, such as <hi>Sabbaths,</hi> and appointed times for
+<pb facs="tcp:207021:6"/> publick Meeting; but when they took their rest betwixt hands, we continued still in Fields, nights and days, fasting and praying for tvvo or three days together, several times, and it vvas alvvays their fear vve should propose some question to try them for Sepe<g ref="char:EOLhyphen"/>ration, and that night before vve vvas taken, vve vvarned them that the Souldiers vvould come, and told them to use their freedom; We savv them alfo a Mile off, an hour before they came, and none of them vvould go avvay; and after vve vvere brought in hither, after some several days Fasting and Prayer, vve being vvarned by the Holy Ghost, follovved <hi>Esthers</hi> advice, and continued from eight a Clock of the morning the 24 day of the 5 Month, till the 27 at four afternoon fasting and praying; vve sent them vvord likevvise to Fast and Pray, and vvhen vve sent them the ansvver of our Prayers in vvrit, they called us Devils; thence vve fasted till the 28 day at night, and thence till the 30 at night, vvaiting still to see if they vvould recover, but they vvaxed still vvorse, and vve vvere forced to vvrite this to vindicate our carriage tovvards them.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Walter Ker.</item>
+                     <item>John Gibb.</item>
+                     <item>David Jamison,</item>
+                     <item>John Young.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is exactly compared and collationed with the Principal Copy,</p>
+            <closer>
+               <signed>by me WIL. PATERSON, Cl. Sti. Concilii.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207021:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
